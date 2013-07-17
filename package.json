@@ -1,0 +1,12 @@
+{
+  "name": "express-restSession-example",
+  "version": "0.0.1",
+  "description": "A sample code project demonstrating express ajax based login and session",
+  "dependencies": {
+  	"express": "*",
+	"password-hash":"*",
+	"mongo":"*"
+
+   },
+  "engine": "node >=0.6.x"
+}
